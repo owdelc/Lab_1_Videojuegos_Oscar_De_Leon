@@ -1,0 +1,2 @@
+Se le colocó un cubo como objeto adicional a la esfera de movimiento (WASD) con la finalidad de brindar estabilidad
+a la camara luego de los choques.
